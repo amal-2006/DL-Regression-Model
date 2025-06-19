@@ -39,7 +39,7 @@ Plot the original dataset along with the learned linear model.
 
 Use the trained model to predict  for a new input value .
 
-### Developed by : Narendran K
+### Developed by : Amaljosh Maadhav J
 
 ### Register Number: 212223230135 
 
